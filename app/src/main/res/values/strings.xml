@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Calculadora_Nomina_Colombiana</string>
+
+    <string name="titulo_calculadora">Calculadora de Nómina 2026</string>
+
+    <string name="etiqueta_salario_basico">Salario básico mensual</string>
+    <string name="etiqueta_horas_diurnas">Horas extra diurnas</string>
+    <string name="etiqueta_horas_nocturnas">Horas extra nocturnas</string>
+    <string name="etiqueta_horas_dominical">Horas extra en domingo o festivo</string>
+    <string name="etiqueta_transporte_empresa">La empresa paga auxilio de transporte</string>
+
+    <string name="texto_error_salario">El salario debe ser numérico y mayor o igual a %1$s.</string>
+    <string name="texto_error_horas">Las horas extra no pueden ser negativas ni sumar más de 48 horas.</string>
+
+    <string name="boton_calcular">Calcular</string>
+    <string name="boton_limpiar">Limpiar</string>
+
+    <string name="titulo_desglose">Desglose de nómina</string>
+    <string name="seccion_devengado">Devengado</string>
+    <string name="seccion_deducciones">Deducciones</string>
+    <string name="linea_valor_hora">Valor hora ordinaria</string>
+    <string name="linea_salario_basico">Salario básico</string>
+    <string name="linea_horas_extra">Horas extra</string>
+    <string name="linea_auxilio_transporte">Auxilio de transporte</string>
+    <string name="linea_total_devengado">Total devengado</string>
+    <string name="linea_salud">Salud (4 %)</string>
+    <string name="linea_pension">Pensión (4 %)</string>
+    <string name="linea_fondo_solidaridad">Fondo de Solidaridad Pensional (1 %)</string>
+    <string name="linea_total_deducciones">Total deducciones</string>
+    <string name="linea_salario_neto">Salario neto a recibir</string>
+
+    <string name="rango_1_descripcion">Rango 1: Con derecho a auxilio de transporte</string>
+    <string name="rango_2_descripcion">Rango 2: Sin auxilio de transporte ni Fondo de Solidaridad</string>
+    <string name="rango_3_descripcion">Rango 3: Aporta al Fondo de Solidaridad Pensional</string>
+    <string name="descripcion_imagen_rango">Indicador del rango salarial</string>
+</resources>
